@@ -1,0 +1,5 @@
+{
+  "name": "Monitor GCU Sentinel",
+  "description": "Interfaz de monitoreo térmico en tiempo real para Unidades de Control de Generador (GCU) de aerogeneradores. Visualiza flujos térmicos binarios, rastrea telemetría y gestiona alertas del sistema.",
+  "requestFramePermissions": []
+}
