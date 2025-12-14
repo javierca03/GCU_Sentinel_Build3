@@ -75,12 +75,4 @@ src/
 ├── constants.ts            # Configuración de URLs (WS_URL)
 └── App.tsx                 # Lógica principal y manejo de WebSocket
 code
-Code
-### ¿Por qué pasó esto?
-Cuando copias texto formateado de un chat a un editor de código plano, a veces los "enter" (saltos de línea) se pierden. Al usar el bloque de arriba:
 
-1.  Los `#` crearán títulos grandes.
-2.  Las tablas `| ... |` se dibujarán como rejillas ordenadas.
-3.  Los bloques con \`\`\` se verán como código con colores.
-
-Intenta pegarlo de nuevo y dale a "Preview" en GitHub, verás la diferencia inmediata.
