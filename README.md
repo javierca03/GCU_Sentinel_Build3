@@ -2,7 +2,7 @@
 
 ![Version](https://img.shields.io/badge/version-2.2-blue) ![Status](https://img.shields.io/badge/status-active-success) ![Tech](https://img.shields.io/badge/react-typescript-blue)
 
-**Monitor GCU Sentinel** es un panel de control en tiempo real diseñado para la supervisión termográfica y operativa de unidades de control (GCU) en turbinas eólicas **Vestas V90**.
+**Monitor GCU Sentinel** es un panel de control en tiempo real diseñado para la supervisión termográfica y operativa de unidades de control (GCU) en turbinas eólicas como por ejemplpo las **Vestas V90**.
 
 El sistema procesa flujos de datos binarios de alta velocidad a través de WebSockets para renderizar matrices térmicas en vivo, permitiendo la detección temprana de sobrecalentamientos y la gestión de alertas del sistema.
 
